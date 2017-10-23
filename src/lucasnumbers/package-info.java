@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author ciach
+ *
+ */
+package lucasnumbers;
